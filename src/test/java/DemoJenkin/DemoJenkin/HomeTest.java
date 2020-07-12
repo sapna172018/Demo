@@ -110,6 +110,11 @@ public class HomeTest {
 		System.out.println("hello Master");
 	}
 
+	@Test
+	public void RemoteOnMaster2() {
+
+		System.out.println("hello Master");
+	}
 
 
 	@AfterMethod
